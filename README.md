@@ -2,6 +2,5 @@
 天航公告板
 
 ## 官网网址：
-- [①主网址](https://tianhang.shop/ "①主网址")
-- [②备用官网](https://天航.shop/ "②备用官网")
-- [③备用官网(需挂代理)](https://tianhang.pro/ "③备用官网(需挂代理)")
+- ①主用官网：[tianhang.shop](https://tianhang.shop/)
+- ②备用官网1：[tianhang.pro](https://tianhang.pro/)
