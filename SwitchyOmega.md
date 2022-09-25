@@ -15,12 +15,12 @@
 > - Clash的代理端口是7890
 > - v2rayN的代理端口是10808
 
-![图片2.png](https://yiy.one/upload/image/20210518/1621324184740842.png "1621324184740842.png")
+![1621324184740842](https://user-images.githubusercontent.com/109172552/192149589-4fbbc1a0-8437-4739-a287-73936f3802db.png)
 
 **第三步，切换代理模式即可上网（一定要切换不然用不了）**：
 在浏览器地址栏右侧找到圆圈状的SwitchyOmega插件图标，左键点击后出现以下菜单，然后点【系统代理】或者【Proxy】：
 
-![image.png](https://yiy.one/upload/image/20210723/1627050489338408.png "1627050489338408.png")
+![1627050489338408](https://user-images.githubusercontent.com/109172552/192149600-245dc1cb-e927-4674-a1ee-b3f014924209.png)
 
 **最后确认**：
 务必访问 chrome://settings/system 确认 [代理设置] 一项必须显示 [此设置由“Proxy SwitchyOmega”控制]，否则请关闭其他插件重新打开 ProxySwitchyOmega！
